@@ -1,0 +1,12 @@
+---
+title: "Wijzig deze titel in jullie onderzoeksvraag"
+subtitle: "Analyse resultaten"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
