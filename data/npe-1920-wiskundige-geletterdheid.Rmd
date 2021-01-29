@@ -56,7 +56,7 @@ mutate(SecondaryEducation = factor(SecondaryEducation, levels = c(
 )))
 ```
 
-Hier wordt de variabele **SecondaryEducation** (door `mutate()`) gewijzigd in een ordinale variabele (door `factor()`) met geordende niveaus (optie `levels`). Je kan de verschillende mogelijkheden die er zijn opvragen via de functie `unique()`, bv:
+Hier wordt de variabele **SecondaryEducation** met `mutate()` omgezet in een ordinale variabele met behul van `factor()`. De optie `levels` bepaalt de volgorde van de verschillende categorieën. Je kan de verschillende voorkomende waarden van een variabele opvragen via de functie `unique()`, bv:
 
 ```
 r$> unique(math_prof$Gender)
@@ -67,7 +67,7 @@ Dus de variabele **Gender** (in dit geval *geen* ordinale variabele!) heeft in d
 
 ## Uitgewerkt voorbeeld
 
-Hieronder volgt een uitgewerkt voorbeeld. De toetsresultaten zijn samengevat per niveau (lager, 1e en 2e graad secundair) in de variabelen **TestLevel1**, **2** en **3** en ook het totaal is berekende in **TestTotal**. Verder zijn ook de variabelen **EducationFather** en **SecondaryEducation** gesorteerd omdat het ordinale variabelen zijn.
+Hieronder volgt een uitgewerkt voorbeeld. De toetsresultaten zijn samengevat per niveau (lager, 1e en 2e graad secundair) in de variabelen **TestLevel1**, **2** en **3** en ook het totaal is berekend in **TestTotal**. Verder zijn ook de variabelen **EducationFather** en **SecondaryEducation** gesorteerd omdat het ordinale variabelen zijn.
 
 ```{r,message=FALSE}
 math_prof <- read_csv('npe-1920-wiskundige-geletterdheid.csv') %>%
