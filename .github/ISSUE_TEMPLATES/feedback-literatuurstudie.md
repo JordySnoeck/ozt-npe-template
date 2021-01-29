@@ -17,6 +17,7 @@ Bij criteria die voldaan zijn is het vakje aangevinkt, bij criteria die niet vol
 - [ ] Elk teamlid heeft minstens 2 unieke publicaties bijgedragen
 - [ ] Er is een verslag toegevoegd van de *reading group*
 - [ ] De gevonden publicaties zijn verwerkt in een doorlopende tekst
+- [ ] Deze tekst is in LaTeX geschreven, a.h.v. het aangeleverde sjabloon (`rapport/wiskundige-geletterdheid.tex`)
 - [ ] Er wordt een wetenschappelijke schrijfstijl gehanteerd
 - [ ] Er wordt correct verwezen naar de literatuur
 
