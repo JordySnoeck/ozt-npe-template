@@ -13,7 +13,7 @@ Teams met minder dan 5 studenten zijn niet toegelaten, tenzij er onvoldoende stu
 
 Schrijf samen met je teamgenoten op Chamilo in in één van de daarvoor voorziene cursusgroepen.
 
-**Sluit niet zomaar aan bij een Chamilo-groep zonder dat je eerst contact opgenomen hebt met deze studenten!**
+**Sluit niet zomaar aan bij een onvolledige groep zonder dat je eerst contact opgenomen hebt met deze studenten!**
 
 Groepen die op 2 of 3 teamleden blijven steken kunnen worden samengevoegd. Studenten die niet tijdig initiatief nemen worden door de lectoren willekeurig ingeschreven in lege groepen of toegevoegd aan onvolledige teams.
 

@@ -30,8 +30,6 @@ Gebruik vervolgens R om de resultaten op een methodologisch correcte manier te a
 
 Vat het gehele proces tenslotte samen in een artikel dat opgemaakt is met LaTeX, aan de hand van het opgegeven sjabloon.
 
-Tijdens de oefeningensessies kunnen jullie de begeleidende lector advies vragen, of feedback vragen over wat jullie tot dan gerealiseerd hebben. Verder gebeuren alle onderlinge afspraken binnen het team op zelfstandige basis.
-
 ## Referenties
 
 Borms, J. & Vandroemme, S. (2018). *Kritisch denken en onderzoekscompetenties voor de bachelorstudent.* Verkregen 29 januari 2021, van <https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=22068&tool=LearningPath&browser=Table&tool_action=ComplexDisplay&publication=980981>
