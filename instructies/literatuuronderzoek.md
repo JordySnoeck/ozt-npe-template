@@ -34,14 +34,14 @@ Hou een verslag bij van de reading group in `literatuuronderzoek/reading-group.m
 
 Elk wetenschappelijk artikel dat jullie gelezen hebben bevat normaal gezien ook een literatuurstudie. Dit is een samenvatting van de kennis die de onderzoekers hebben opgedaan over het onderwerp door wetenschappelijke/vakliteratuur over het onderwerp te lezen, net zoals jullie nu gedaan hebben.
 
-Schrijf met jullie team een gelijkaardige tekst op basis van de gevonden publicaties en jullie kritische reflectie tijdens de reading group. Probeer de structuur en schrijfstijl van de gelezen teksten na te bootsen.
+Schrijf met jullie team een gelijkaardige tekst op basis van de gevonden publicaties en jullie kritische reflectie tijdens de reading group. Let op! Dit is niet zomaar een opsomming van de werken die jullie gelezen hebben en wat in elk staat. Probeer de stijl na te bootsen van literatuuroverzichten in de publicaties die jullie gelezen hebben.
 
 Voeg deze tekst meteen toe aan het sjabloon voor het artikel (`rapport/wiskundige-geletterdheid.tex`) dat jullie in fase 4 zullen afwerken.
 
 Let bij het uitschrijven van een literatuurstudie in het bijzonder op het volgende:
 
 - Hanteer een **wetenschappelijke schrijfstijl**. Dat betekent dat je niet de eerste persoon gebruikt (dat impliceert een mening, geen objectieve feiten). Vermijd ook informele taal, bloemrijke adjectieven, enz.
-- De literatuurstudie is een doorlopende tekst, niet zomaar een opsomming van de gevonden publicaties en hun inhoud.
+- De literatuurstudie is een doorlopende tekst die een overzicht geeft van de huidige stand van zaken in het onderzoeksdomein.
 - Verwijs op de gepaste plaats in de tekst naar de gebruikte bronnen (met het LaTeX-commando `\textcite{}` of `\autocite{}`). Enkel gerefereerde werken zullen in de literatuurlijst opgenomen worden. Dat moet ook zo: in een literatuurlijst mogen geen bronnen voorkomen waar niet naar verwezen wordt in de tekst.
 
 Geef het artikel een gepaste titel en pas ook de namen van de auteurs aan. Verder hoef je nog niets te schrijven (dus geen abstract, methodologie, conclusie, enz.).

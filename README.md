@@ -21,8 +21,9 @@ Doel van dit project is de stappen van een onderzoeksproces doorlopen en zo erva
     - [Fase 2: Literatuuronderzoek](instructies/literatuuronderzoek.md)
     - [Fase 3: Statistische analyse](instructies/analyse.md)
     - [Fase 4: Rapporteren](instructies/rapporteren.md)
-
+    - [Planning en opvolging](instructies/planning.md)
 - Directory [data/](data/): de dataset waarmee jullie zullen werken
+- Directory [extra/](extra/): andere bestanden die jullie willen bijhouden in deze repository
 - Voor elke fase is een aparte directory voorzien waar jullie tussentijdse resultaten in kunnen bijhouden:
     - Fase 1: [hypothese/](hypothese/)
     - Fase 2: [literatuuronderzoek/](literatuuronderzoek/)

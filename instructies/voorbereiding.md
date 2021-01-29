@@ -43,6 +43,8 @@ $ git config --global pull.rebase true
 
 Het laatste commando zorgt er voor dat de historiek van het project lineair blijft en dat er niet telkens merge commits toegevoegd moeten worden als verschillende teamleden parallel wijzigingen aanbrengen.
 
-De studiewijzer in de cursus bevat nog nuttige tips om Git goed te configureren. **Controleer op Github of je commits zichtbaar zijn onder jouw naam!**
+De studiewijzer in de cursus bevat nog nuttige tips om Git goed te configureren. **Controleer op Github of je commits zichtbaar zijn onder jouw naam!** Je kan dit uitproberen door je naam en contactinfo toe te voegen aan de README van het project.
 
-Schrijf zinvolle commit-boodschappen die ook aangeven wat je veranderd hebt.
+Schrijf altijd zinvolle commit-boodschappen die aangeven wat je veranderd hebt!
+
+Behoud de directory- en bestandsstructuur van deze repository. Voeg niet zomaar bestanden toe op plaatsen waar ze niet thuis horen.
