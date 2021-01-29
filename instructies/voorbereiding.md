@@ -37,7 +37,6 @@ Het is belangrijk dat je Git correct configureert, meer bepaald dat je je naam e
 ```console
 $ git config --global user.name "Voornaam Naam"
 $ git config --global user.email "voornaam.naam@student.hogent.be"
-$ git config --global github.user "GithubUsername"
 $ git config --global pull.rebase true
 ```
 
