@@ -12,7 +12,7 @@ Voor een leidraad in het voeren van een literatuuronderzoek, het gebruik van een
 
 ## Publicaties opzoeken
 
-Elk teamlid zoekt (minstens) **twee unieke publicaties** (artikels, enz.) over het onderwerp en vat dit kort samen. Verzamel ze in de bibliografische databank in jullie Github repository (het bestand `rapport/bibliografie.bib`. Gebruik JabRef om de bibliografische databank te bewerken.
+Elk teamlid zoekt (minstens) **twee unieke publicaties** (artikels, enz.) over het onderwerp en vat dit kort samen. Verzamel ze in de bibliografische databank in jullie GitHub repository (het bestand `rapport/bibliografie.bib`. Gebruik JabRef om de bibliografische databank te bewerken.
 
 Vul alle noodzakelijke velden aan (auteur(s), titel, jaar van publicatie, enz.) en schrijf ook telkens in enkele zinnen waarover het betreffende artikel gaat zodat je teamgenoten een idee hebben van wat je gevonden hebt (dat kan in het tabblad Comments). Gebruik de bachelorproefgids (Van Vreckem & Buysse, 2018) om na te gaan hoe je bepaalde types van publicaties correct kan invoegen in JabRef.
 
@@ -49,7 +49,7 @@ Geef het artikel een gepaste titel en pas ook de namen van de auteurs aan. Verde
 ## Checklist
 
 - Elk teamlid heeft &ge;2 publicaties aangeleverd gerelateerd aan het onderzoeksdomein en toegevoegd in `rapport/bibliografie.bib`
-- Het team heeft een reading group gehouden en een verslag in de repository toegevoegd onder `literatuurstudie/reading-group.md`
+- Het team heeft een reading group gehouden en een verslag in de repository toegevoegd onder `literatuuronderzoek/reading-group.md`
 - De kennis opgedaan in de gevonden publicaties is verwerkt tot een doorlopende tekst die toegevoegd is aan het artikelsjabloon onder `rapport`
 
 ## Bronnen
