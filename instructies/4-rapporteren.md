@@ -26,7 +26,7 @@ Herformuleer de **titel** zodat die een concreet beeld geeft van de specifieke h
 
 De tekst **staat geheel op zichzelf**, d.w.z. er wordt niet verondersteld dat de lezer bepaalde voorkennis heeft, noch van het onderwerp, noch van het feit dat het hier gaat om een opdracht voor een cursus onderzoekstechnieken. De lezer moet alle informatie krijgen om de tekst te begrijpen. De inleiding en literatuurstudie moeten voldoende context geven. Schrijf het artikel alsof je het zou willen publiceren!
 
-Het artikel is duidelijk en logisch **gestructureerd** en is vlot leesbaar,  waarbij elk onderdeel mooi op elkaar aansluit. Hanteer een wetenschappelijke schrijfstijl (Taalwinkel, 2018). Alle beweringen en keuzes worden ondersteund, hetzij door eigen resultaten, hetzij door verwijzingen naar gezaghebbende bronnen uit de literatuur.
+Het artikel is duidelijk en logisch **gestructureerd** en is vlot leesbaar,  waarbij elk onderdeel mooi op elkaar aansluit. Hanteer een wetenschappelijke schrijfstijl [(Taalwinkel, 2018)](../toelichting.md#Taalwinkel2018). Alle beweringen en keuzes worden ondersteund, hetzij door eigen resultaten, hetzij door verwijzingen naar gezaghebbende bronnen uit de literatuur.
 
 Zorg dat het afgewerkte artikel met LaTeX-broncode op jullie GitHub-repository staat onder de directory `rapport/`. De  PDF wordt daarnaast vóór de deadline ingediend via Chamilo onder Opdrachten/Paper. De paper mag **maximaal 5 pagina's** lang zijn. Let dus goed op je layout en aarzel niet om te schrappen: kill your darlings.
 

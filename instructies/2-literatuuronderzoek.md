@@ -8,13 +8,13 @@ In deze fase gaan jullie een literatuuronderzoek voeren naar bepalende factoren 
 - Welk onderzoek er eventueel nog ontbreekt
 - Wat jullie met je onderzoek toevoegen aan de bestaande literatuur
 
-Voor een leidraad in het voeren van een literatuuronderzoek, het gebruik van een bibliografische databank, het gebruik van LaTeX, zie de cursus en ook Borms & Vandroemme (2018) en Van Vreckem & Buysse (2018).
+Voor een leidraad in het voeren van een literatuuronderzoek, het gebruik van een bibliografische databank, het gebruik van LaTeX, zie de cursus en ook [Borms & Vandroemme (2018)](../toelichting.md#Borms2018) en [Van Vreckem & Buysse (2018)](../toelichting.md#VanVreckem2018).
 
 ## Publicaties opzoeken
 
 Elk teamlid zoekt (minstens) **twee unieke publicaties** (artikels, enz.) over het onderwerp en vat dit kort samen. Verzamel ze in de bibliografische databank in jullie GitHub repository (het bestand `rapport/bibliografie.bib`. Gebruik JabRef om de bibliografische databank te bewerken.
 
-Vul alle noodzakelijke velden aan (auteur(s), titel, jaar van publicatie, enz.) en schrijf ook telkens in enkele zinnen waarover het betreffende artikel gaat zodat je teamgenoten een idee hebben van wat je gevonden hebt (dat kan in het tabblad Comments). Gebruik de bachelorproefgids (Van Vreckem & Buysse, 2018) om na te gaan hoe je bepaalde types van publicaties correct kan invoegen in JabRef.
+Vul alle noodzakelijke velden aan (auteur(s), titel, jaar van publicatie, enz.) en schrijf ook telkens in enkele zinnen waarover het betreffende artikel gaat zodat je teamgenoten een idee hebben van wat je gevonden hebt (dat kan in het tabblad Comments). Gebruik de bachelorproefgids [(Van Vreckem & Buysse, 2018)](../toelichting.md#VanVreckem2018) om na te gaan hoe je bepaalde types van publicaties correct kan invoegen in JabRef.
 
 ## Reading group
 
@@ -25,7 +25,7 @@ Stel jezelf volgende vragen:
 - Wat vinden jullie van de artikels?
 - Welke vinden jullie het interessantst en waarom?
 - Welke artikels vinden jullie niet goed en waarom niet?
-- Is iedereen het eens over de kwaliteit van de artikels? Doe de CRAP-test (Gratz, 2015)!
+- Is iedereen het eens over de kwaliteit van de artikels? Doe de CRAP-test [(Gratz, 2015)](../toelichting.md#Gratz2015)!
 - Zijn de experimenten representatief voor de onderzoeksvraag?
 
 Hou een verslag bij van de reading group in `literatuuronderzoek/reading-group.md`.
@@ -51,7 +51,3 @@ Geef het artikel een gepaste titel en pas ook de namen van de auteurs aan. Verde
 - Elk teamlid heeft &ge;2 publicaties aangeleverd gerelateerd aan het onderzoeksdomein en toegevoegd in `rapport/bibliografie.bib`
 - Het team heeft een reading group gehouden en een verslag in de repository toegevoegd onder `literatuuronderzoek/reading-group.md`
 - De kennis opgedaan in de gevonden publicaties is verwerkt tot een doorlopende tekst die toegevoegd is aan het artikelsjabloon onder `rapport`
-
-## Bronnen
-
-TODO

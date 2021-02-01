@@ -14,7 +14,7 @@ De doelstelling van deze groepsopdracht is om een onderzoek uit te voeren zoals 
 
 Elk jaar nemen we voor deze opdracht een ander onderwerp. Dit keer leggen we ons toe op de fundamenten van de informatica, namelijk wiskunde. Jarenlang is er veel discussie geweest over het belang van wiskunde in de informatica. Sommigen geloven dat het slechts weinig waarde toevoegt binnen de computerwetenschappen, terwijl anderen denken dat het essentieel is voor het vakgebied. Dit ten gronde onderzoeken ligt buiten het bestek van deze cursus, maar het is wel interessant om eens te kijken of er factoren bestaan die de mate waarin je wiskunde beheerst beïnvloeden. Mogelijke denkpistes zijn:
   
-- Zijn jongens beter dan meisjes, zoals bijvoorbeeld onderzocht door Ganley & Lubienski (2016)?
+- Zijn jongens beter dan meisjes, zoals bijvoorbeeld onderzocht door [Ganley & Lubienski (2016)](#Ganley2016)?
 - Heeft het beoefenen van sport een invloed op de wiskundige geletterdheid? M.a.w., geldt de uitspraak "mens sana in corpore sano", of "een gezonde geest in een gezond lichaam"?
 - Speelt de sociale achtergrond een bepalende rol?
 
@@ -32,12 +32,12 @@ Vat het gehele proces tenslotte samen in een artikel dat opgemaakt is met LaTeX,
 
 ## Referenties
 
-Borms, J. & Vandroemme, S. (2018). *Kritisch denken en onderzoekscompetenties voor de bachelorstudent.* Verkregen 29 januari 2021, van <https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=22068&tool=LearningPath&browser=Table&tool_action=ComplexDisplay&publication=980981>
+<a id="Borms2018">Borms, J. & Vandroemme, S. (2018).</a> *Kritisch denken en onderzoekscompetenties voor de bachelorstudent.* Verkregen 29 januari 2021, van <https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=22068&tool=LearningPath&browser=Table&tool_action=ComplexDisplay&publication=980981>
 
-Ganley, C. & Lubienski, S. (2016). Mathematics confidence, interest, and performance: Examining gender patterns and reciprocal relations. *Learning and Individual Differences, 47,* p.p. 182–193. <https://doi.org/10.1016/j.lindif.2016.01.002>
+<a id="Ganley2016">Ganley, C. & Lubienski, S. (2016).</a> Mathematics confidence, interest, and performance: Examining gender patterns and reciprocal relations. *Learning and Individual Differences, 47,* p.p. 182–193. <https://doi.org/10.1016/j.lindif.2016.01.002>
 
-Gratz, A. E. (2015). *Evaluating Sources - Use the C.R.A.P. test!* Verkregen 29 januari 2021, van <https://libraries.mercer.edu/research-tools-help/citation-tools-help/evaluating-sources>
+<a id="Gratz2015">Gratz, A. E. (2015).</a> *Evaluating Sources - Use the C.R.A.P. test!* Verkregen 29 januari 2021, van <https://libraries.mercer.edu/research-tools-help/citation-tools-help/evaluating-sources>
 
-Taalwinkel. (2018). *Een wetenschappelijke schrijfstijl.* Verkregen 29 januari 2021, van <http://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/>
+<a id="Taalwinkel2018">Taalwinkel. (2018).</a> *Een wetenschappelijke schrijfstijl.* Verkregen 29 januari 2021, van <http://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/>
 
-Van Vreckem, B. & Buysse, J. (2018). *De bachelorproef informatica: Een praktische gids.* Verkregen 29 januari 2021, van <https://github.com/hogenttin/bachproef-gids>
+<a id="VanVreckem2018">Van Vreckem, B. & Buysse, J. (2018).</a> *De bachelorproef informatica: Een praktische gids.* Verkregen 29 januari 2021, van <https://github.com/hogenttin/bachproef-gids>
