@@ -4,7 +4,7 @@ Gebruik R om aan de hand van de dataset jullie hypothese te analyseren met de ge
 
 Zorg er voor dat jullie resultaten *reproduceerbaar* zijn, d.w.z. dat deze zonder tussenkomst of manuele tussenstappen berekend worden uit de dataset. De originele dataset mag daarbij niet gewijzigd worden. In de directory `data/` vind je een R-Markdownbestand met enkele aanwijzingen hoe je dat moet aanpakken.
 
-In de directory `analyse/` is al een bestand `analyse.Rmd` dat als startpunt kan dienen. Voeg in dit document alle nodige code toe voor de statistische verwerking van de dataset. Documenteer de code en jullie werkwijze in Markdown en voeg tussenin R-codeblokken toe. Structureer het document met tussentitels. Gebruik de R-Markdowndocumenten in de Github-repository van de cursus (onder [codevoorbeelden](https://github.com/HoGentTIN/onderzoekstechnieken-cursus/tree/master/codevoorbeelden)) als voorbeeld.
+In de directory `analyse/` is al een bestand `analyse.Rmd` dat als startpunt kan dienen. Voeg in dit document alle nodige code toe voor de statistische verwerking van de dataset. Documenteer de code en jullie werkwijze in Markdown en voeg tussenin R-codeblokken toe. Structureer het document met tussentitels. Gebruik de R-Markdowndocumenten in de GitHub-repository van de cursus (onder [codevoorbeelden](https://github.com/HoGentTIN/onderzoekstechnieken-cursus/tree/master/codevoorbeelden)) als voorbeeld.
 
 Als je in het team het werk verdeelt mag je meerdere .Rmd-bestanden toevoegen in deze directory. Geef een overzicht in de `README.md` van de directory `analyse/`. Vul ook telkens de juiste namen in in de hoofding.
 

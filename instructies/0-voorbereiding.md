@@ -19,20 +19,20 @@ Groepen die op 2 of 3 teamleden blijven steken kunnen worden samengevoegd. Stude
 
 ## Samenwerking
 
-Gebruik de features van Github om het werk binnen het team te plannen en op te volgen. Creëer issues voor elke taak en wijs ze toe aan teamleden.
+Gebruik de features van GitHub om het werk binnen het team te plannen en op te volgen. Creëer issues voor elke taak en wijs ze toe aan teamleden.
 
 We rekenen er op dat elk teamlid in elke fase significant bijdraagt tot het project. **Elk teamlid is individueel verantwoordelijk om de eigen bijdrage te kunnen aantonen.** De begeleiders houden daarbij o.a. rekening met:
 
-- Github commits die je gemaakt hebt.
-- Github issues die aan jou waren toegewezen en die je hebt opgelost.
+- GitHub commits die je gemaakt hebt.
+- GitHub issues die aan jou waren toegewezen en die je hebt opgelost.
 - Peer evaluatie: aan alle teamleden wordt gevraagd om elkaar te beoordelen op vlak van samenwerking.
 - Persoonlijk logboek bijgehouden in de directory [`logboek/`](../logboek/)
 
-Teamleden waarvan geen significante bijdrage kan worden gevonden in de Github-repository krijgen 0 op deze opdracht. Dit onderdeel telt mee voor 30% van het totaal voor dit vak en er is geen 2e examenkans mogelijk.
+Teamleden waarvan geen significante bijdrage kan worden gevonden in de GitHub-repository krijgen 0 op deze opdracht. Dit onderdeel telt mee voor 30% van het totaal voor dit vak en er is geen 2e examenkans mogelijk.
 
-## Github
+## GitHub
 
-Het is belangrijk dat je Git correct configureert, meer bepaald dat je je naam en email-adres goed instelt (zie hieronder). **Als je dit niet doet, bestaat de kans dat de lectoren je bijdragen niet kunnen terugvinden of koppelen aan jouw naam.**
+Het is belangrijk dat je Git correct configureert, meer bepaald dat je je naam en e-mailadres goed instelt (zie hieronder). **Als je dit niet doet, bestaat de kans dat de lectoren je bijdragen niet kunnen terugvinden of koppelen aan jouw naam.**
 
 ```console
 $ git config --global user.name "Voornaam Naam"
@@ -42,7 +42,7 @@ $ git config --global pull.rebase true
 
 Het laatste commando zorgt er voor dat de historiek van het project lineair blijft en dat er niet telkens merge commits toegevoegd moeten worden als verschillende teamleden parallel wijzigingen aanbrengen.
 
-De studiewijzer in de cursus bevat nog nuttige tips om Git goed te configureren. **Controleer op Github of je commits zichtbaar zijn onder jouw naam!** Je kan dit uitproberen door je naam en contactinfo toe te voegen aan de README van het project.
+De studiewijzer in de cursus bevat nog nuttige tips om Git goed te configureren. **Controleer op GitHub of je commits zichtbaar zijn onder jouw naam!** Je kan dit uitproberen door je naam en contactinfo toe te voegen aan de README van het project.
 
 Schrijf altijd zinvolle commit-boodschappen die aangeven wat je veranderd hebt!
 
