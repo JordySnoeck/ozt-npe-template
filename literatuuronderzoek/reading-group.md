@@ -8,7 +8,7 @@
 ## Agenda
 
 - Overlopen gevonden publicaties
-- Taakverdeling uitschrijven literatuurstudie
+- Taakverdeling uitschrijven literatuurstudie, redactie, ...
 - Varia
 
 ## Punt 1
