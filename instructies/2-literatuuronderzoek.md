@@ -10,6 +10,9 @@ In deze fase gaan jullie een literatuuronderzoek voeren naar bepalende factoren 
 
 Voor een leidraad in het voeren van een literatuuronderzoek, het gebruik van een bibliografische databank, het gebruik van LaTeX, zie de cursus en ook [Borms & Vandroemme (2018)](../toelichting.md#Borms2018) en [Van Vreckem & Buysse (2018)](../toelichting.md#VanVreckem2018).
 
+Om je resultaat in te dienen maak je via de Github-pagina van jullie project een nieuwe Release aan (blauwe link rechts "Create a new release") vóór de opgegeven deadline. Kies als Tag version `fase2`. Eén van de lectoren zal zo snel mogelijk feedback geven via een Github Issue.
+
+
 ## Publicaties opzoeken
 
 Elk teamlid zoekt (minstens) **twee unieke publicaties** (artikels, enz.) over het onderwerp en vat dit kort samen. Verzamel ze in de bibliografische databank in jullie GitHub repository (het bestand `rapport/bibliografie.bib`. Gebruik JabRef om de bibliografische databank te bewerken.

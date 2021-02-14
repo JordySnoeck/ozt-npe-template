@@ -14,3 +14,4 @@ Bekijk de aangeleverde dataset in `data/`. Het README-bestand bevat een korte ui
     - Dit mag een tekening op papier zijn die je inscant of fotografeert. Een screenshot van een computergegenereerde grafiek op basis van "fake" data (bv. in Excel) kan ook.
     - Het is hier niet de bedoeling om al met de dataset zelf aan de slag te gaan!
 - Vat dit samen in het document `hypothese/hypothese.md`
+- Om je resultaat in te dienen maak je via de Github-pagina van jullie project een nieuwe Release aan (blauwe link rechts "Create a new release") vóór de opgegeven deadline. Kies als Tag version `fase1`. Eén van de lectoren zal zo snel mogelijk feedback geven via een Github Issue.

@@ -21,3 +21,5 @@ Enkele aandachtspunten w.b. de inhoud:
     - Kan je het resultaat verklaren?
     - Zijn de resultaten tussen de verschillende combinaties van onafhankelijke/afhankelijke variabelen consistent?
     - Als je een verband vindt waar je er geen had verwacht, kan het dan gaan om "spurious correlation" of is het mogelijk dat er hier echt iets aan de hand is?
+
+Voor deze fase is er geen tussentijdse deadline en deze wordt ook niet afzonderlijk beoordeeld. Je mag ter info wel een Release aanmaken (met Tag version `fase3`).

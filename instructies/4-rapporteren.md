@@ -2,6 +2,8 @@
 
 De laatste stap is het gehele proces samen te vatten in een artikel, opgemaakt volgens een het aangeleverde sjabloon in `rapport/`, waar jullie de literatuurstudie al in verwerkt hebben.
 
+Om je resultaat in te dienen maak je via de Github-pagina van jullie project een nieuwe Release aan (blauwe link rechts "Create a new release"). Kies als Tag version `fase4`. Dien de PDF met jullie finale artikel in via de Chamilo-module Opdrachten vóór de opgegeven deadline.
+
 ## Onderdelen van het artikel
 
 Schrijf een inleiding waarin de **context** van het onderzoek besproken wordt. Zie daarvoor de [toelichting](../toelichting.md).
@@ -30,6 +32,3 @@ Het artikel is duidelijk en logisch **gestructureerd** en is vlot leesbaar,  waa
 
 Zorg dat het afgewerkte artikel met LaTeX-broncode op jullie GitHub-repository staat onder de directory `rapport/`. De  PDF wordt daarnaast vóór de deadline ingediend via Chamilo onder Opdrachten/Paper. De paper mag **maximaal 5 pagina's** lang zijn. Let dus goed op je layout en aarzel niet om te schrappen: kill your darlings.
 
-## Bronnen
-
-TODO
