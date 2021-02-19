@@ -24,7 +24,7 @@ De tabel hieronder geeft een overzicht van alle variabelen in de dataset:
 - **Type:** Het soort data dat in deze variabele is opgeslagen
 
 | Variable                | Question                                                                                                                                                                                                       | Type               |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---|---|
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- |
 | Age                     | Wat is je leeftijd?                                                                                                                                                                                            | Integer, positief  |
 | Gender                  | Met welk gender identificeer je jezelf?                                                                                                                                                                        | Keuze              |
 | PostalCode              | Wat is de postcode van de gemeente waar je momenteel officieel je domicilie hebt?                                                                                                                              | Integer, 1000-9999 |
