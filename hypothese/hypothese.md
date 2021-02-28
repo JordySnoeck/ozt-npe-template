@@ -1,23 +1,25 @@
 # Hypothese
 
-> Instructies in dit document zijn ingevoegd als Markdown-"citaten" (regels die beginnen met `>`). Verwijder alle instructies nadat jullie het document afgewerkt hebben en voordat jullie het indienen.
+> Gamers halen betere resultaten in wiskunde.
 
 ## Onderzoeksvraag
 
-> Formuleer hier de onderzoeksvraag
+> Welke invloed heeft het spelen van games op de wiskundige vaardigheden bij jongeren?
 
 ## Toelichting
 
-> Licht in een korte tekst toe waarom jullie denken dat de gekozen factor(en) invloed heeft (hebben) op wiskundige geletterdheid/
+> Tijdens het spelen van games komt men vaak onbewust wiskundige vaardigheden tegen. Het type van de game zal ook een belangrijke factor zijn. Vanaf hoeveel uren heeft dit invloed op de wiskundige vaardigheden.
 
 ## Selectie variabelen
 
 > Geef aan wat de onafhankelijke en afhankelijke variabele(n) zijn die jullie van naderbij gaan onderzoeken om de hypothese te verifiëren aan de hand van de gegeven dataset. Je hoeft je daarbij niet te beperken tot één onafhankelijke en één afhankelijke variabele. Er zijn misschien meerdere variabelen waarmee jullie specifieke hypothese kan geverifieerd worden.
 
+
 ## Schets verwachte resultaten
 
-> Maak een schets van een grafiek die toont hoe jullie verwachten dat de onderzochte factoren invloed hebben op wiskundige geletterdheid.
+> ![image](https://user-images.githubusercontent.com/61053362/109422128-7f451f80-79da-11eb-96ee-eafc6480d3ae.png)
+
 
 ## Bronnen
 
-> Voeg hier een lijst toe van eventuele gebruikte bronnen. Op dit punt in het proces hoeft dat nog niet gestructureerd te zijn en is een lijst met URLs en eventueel titels voldoende.
+> https://ijoc.org/index.php/ijoc/article/view/5586/1742
